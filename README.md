@@ -2,7 +2,7 @@
   <img
     alt="PandaNote"
     width=220
-    src="https://rawgit.com/Pandanote/Releases/master/logo.svg" />
+    src="https://cdn.jsdelivr.net/gh/Pandanote/Releases/logo.svg" />
 </p>
 
 <p align="center">
